@@ -1,4 +1,4 @@
-PythonLab
+Python Lab
 =========
 
-Experiments in Python
+Repo for my Python related experiments
