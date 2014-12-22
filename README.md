@@ -14,10 +14,10 @@ Contents
 
 ###Data Science Process
 
-<img src="../images/datascience_process.png">
+<img src="./images/datascience_process.png">
 <br>
 <br>
-<img src="../images/datascience_flowchart.png" style="width: 700px;
+<img src="./images/datascience_flowchart.png" style="width: 700px;
 height:600px;">
 
 ###Data Collection
@@ -50,7 +50,7 @@ height:600px;">
 - Collaborative Filtering (neighborhood, SVD, ALS)
 - Inference via graphical models
 
-<img src="../images/ml_cheatsheet.png", style="width: 700px;">
+<img src="./images/ml_cheatsheet.png", style="width: 700px;">
 
 ###Data Visualization
 - Matplotlib / Seaborn
