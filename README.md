@@ -18,12 +18,12 @@ Contents
 <img src="./images/datascience_flowchart.png" style="width: 700px;
 height:600px;">
 
-# Data Collection
+###Data Collection
 
-# Pre-Processing
+###Pre-Processing
 
-# Model-Evaluation
+###Model-Evaluation
 
-# Parameter Estimation
+###Parameter Estimation
 
-# Machine Learning Algorithms
+###Machine Learning Algorithms
