@@ -3,12 +3,12 @@
 
 Contents
 ------
-- [Data Science Process](#Data-Science-Process)
-- [Data Collection](#Data-Collection)
-- [Pre-Processing](#Pre-Processing)
-- [Model Evaluation](#Model-Evaluation)
-- [Parameter Estimation](#Parameter-Estimation)
-- [Machine Learning Algorithms](#Machine-Learning-Algorithms)
+- [Data Science Process](#data-science-process)
+- [Data Collection](#data-collection)
+- [Pre-Processing](#pre-processing)
+- [Model Evaluation](#model-evaluation)
+- [Parameter Estimation](#parameter-estimation)
+- [Machine Learning Algorithms](#machine-learning-algorithms)
 
 ###Data Science Process
 
