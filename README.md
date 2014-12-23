@@ -1,8 +1,8 @@
 
-# Data Science Lab
+#Data Science Lab
+<img src="./images/brain.png">
 
-Contents
-------
+###Contents
 - [Data Science Process](#data-science-process)
 - [Data Collection](#data-collection)
 - [Pre-Processing](#pre-processing)
@@ -13,6 +13,7 @@ Contents
 - [External Resources](#external-resources)
 
 ###Data Science Process
+[back to top](#contents)
 
 <img src="./images/datascience_process.png">
 <br>
@@ -21,6 +22,7 @@ Contents
 height:600px;">
 
 ###Data Collection
+[back to top](#contents)
 - Wikipedia
 - Twitter
 - Facebook
@@ -28,19 +30,25 @@ height:600px;">
 - Amazon
 
 ###Pre-Processing
-- Data Cleaning
+[back to top](#contents)
+- Data Munging [[Notebook](http://nbviewer.ipython.org/urls/raw.github.com/jthan
+g/DataScienceLab/master/pre-processing/data_munging.ipynb)]
 - Standardization and Normalization
 - Feature Selection
 - Dimensionality Reduction (PCA, LDA)
 
 ###Model Selection and Evaluation
-- Metrics
+[back to top](#contents)
+- Metrics (Precision/Recall, ROC curve, Marginal Precision, Score Distribution -
+all items vs true items)
 - Cross-validation
 
 ###Parameter Estimation
+[back to top](#contents)
 - Grid Search with Cross Validation
 
 ###Machine Learning Algorithms
+[back to top](#contents)
 - Linear Regression
 - Logistic Regression
 - Gradient Descent
@@ -50,13 +58,18 @@ height:600px;">
 - Collaborative Filtering (neighborhood, SVD, ALS)
 - Inference via graphical models
 
-<img src="./images/ml_cheatsheet.png", style="width: 700px;">
+<img src="./images/ml_cheatsheet.png">
 
 ###Data Visualization
-- Matplotlib / Seaborn
+[back to top](#contents)
+- Matplotlib / Seaborn [[Notebook](http://nbviewer.ipython.org/github/jthang/Dat
+aScienceLab/blob/master/data_viz/data_viz.ipynb)]
+<img src="./images/data_viz.png">
+- plot.ly
 - d3.js
 
 ###External Resources
+[back to top](#contents)
 - [Machine Learning Concepts](http://www.metacademy.org/browse)
 - [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Interesting Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-
