@@ -17,9 +17,9 @@
 
 <img src="./images/datascience_process.png">
 <br>
+<img src="./images/predictive_modeling.png">
 <br>
-<img src="./images/datascience_flowchart.png" style="width: 700px;
-height:600px;">
+<img src="./images/datascience_flowchart.png" style="width: 700px; height:600px;">
 
 ###Data Acquisition
 [back to top](#contents)
@@ -32,14 +32,14 @@ height:600px;">
 
 ###Pre-Processing
 [back to top](#contents)
-- Data Wrangling [[Notebook](http://nbviewer.ipython.org/urls/raw.github.com/jthang/DataScienceLab/master/pre-processing/data_wrangling.ipynb)]
+- Data Wrangling [[Notebook](http://nbviewer.ipython.org/github/jthang/DataScienceLab/blob/master/preprocessing/data_wrangling.ipynb)]
 - Standardization and Normalization
 - Feature Selection
 - Dimensionality Reduction (PCA, LDA)
 
 ###Model Selection and Evaluation
 [back to top](#contents)
-- Metrics (Precision/Recall, ROC curve, Marginal Precision, Score Distribution -all items vs true items)
+- Metrics (Precision/Recall, ROC curve, Marginal Precision, Score Distribution - all items vs true items)
 - Cross-validation
 - Model Comparison
 - Feature Comparison
@@ -52,7 +52,7 @@ height:600px;">
 ###Machine Learning Algorithms
 [back to top](#contents)
 - Linear Regression
-- Logistic Regression
+- Logistic Regression [[Notebook](http://nbviewer.ipython.org/github/jthang/DataScienceLab/blob/master/machine_learning/logistic_regression.ipynb)]
 - Gradient Descent
 - Support Vector Machine
 - Random Forest
