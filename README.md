@@ -10,7 +10,7 @@
 - [Machine Learning Algorithms](#machine-learning-algorithms)
 - [Model Selection and Evaluation](#model-selection-and-evaluation)
 - [Data Visualization](#data-visualization)
-- [External Resources](#external-resources)
+- [References](#references)
 
 ###Data Science Process
 [back to top](#contents)
@@ -19,7 +19,8 @@
 <br>
 <img src="./images/predictive_modeling.png">
 <br>
-<img src="./images/datascience_flowchart.png" style="width: 700px; height:600px;">
+<img src="./images/datascience_flowchart.png" style="width: 700px;
+height:600px;">
 
 ###Data Acquisition
 [back to top](#contents)
@@ -54,8 +55,8 @@
 - Linear Regression
 - Logistic Regression [[Notebook](http://nbviewer.ipython.org/github/jthang/DataScienceLab/blob/master/machine_learning/logistic_regression.ipynb)]
 - Gradient Descent
-- Support Vector Machine
-- Random Forest
+- Support Vector Machine [[Notebook](http://nbviewer.ipython.org/urls/raw.github.com/jthang/DataScienceLab/master/machine_learning/svm.ipynb)]
+- Random Forest [[Notebook](http://nbviewer.ipython.org/urls/raw.github.com/jthang/DataScienceLab/master/machine_learning/random_forest.ipynb)]
 - Clustering (k-means)
 - Collaborative Filtering
     - Cosine, magnitude-aware, Jaccard, Pearson
@@ -74,9 +75,13 @@
 - plot.ly
 - d3.js
 
-###External Resources
+###References
 [back to top](#contents)
-- [Machine Learning Concepts](http://www.metacademy.org/browse)
-- [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
-- [Interesting Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
-- [Latex Equations](https://github.com/rasbt/pattern_classification/blob/master/resources/latex_equations.md)
+- [The Elements of StatisticalLearning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+- [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/PRML/)
+- [Stanford CS229 - Machine Learning](http://cs229.stanford.edu/materials.html)
+- [Stanford - Probabilistic GraphicalModels](https://www.coursera.org/course/pgm)
+- [Harvard CS109 - Data Science](https://github.com/cs109/content)
+- [Caltech - Learning From Data](https://work.caltech.edu/lectures.html)
+- [Carnegie Mellon University - Machine Learning](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+- [University of Toronto - Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
