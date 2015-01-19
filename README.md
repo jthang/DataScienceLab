@@ -16,24 +16,16 @@ transformation)
 [back to top](#contents)
 
 **Classification and Regression**
-- Generalized Linear Models [[Notebook](http://nbviewer.ipython.org/github/jthan
-g/DataScienceLab/blob/master/machine_learning/glm.ipynb)]
-- Logistic Regression [[Notebook](http://nbviewer.ipython.org/github/jthang/Data
-ScienceLab/blob/master/machine_learning/logistic_regression.ipynb)]
-- Support Vector Machine [[Notebook](http://nbviewer.ipython.org/urls/raw.github
-.com/jthang/DataScienceLab/master/machine_learning/svm.ipynb)]
-- Random Forest [[Notebook](http://nbviewer.ipython.org/urls/raw.github.com/jtha
-ng/DataScienceLab/master/machine_learning/random_forest.ipynb)]
-- Gradient Boosting Regression Trees [[Notebook](http://nbviewer.ipython.org/url
-s/raw.github.com/jthang/DataScienceLab/master/machine_learning/gbrt.ipynb)]
-- Naive Bayes [[Notebook](http://nbviewer.ipython.org/urls/raw.github.com/jthang
-/DataScienceLab/master/machine_learning/naive_bayes.ipynb)]
+- Generalized Linear Models [[Notebook](http://nbviewer.ipython.org/github/jthang/DataScienceLab/blob/master/machine_learning/glm.ipynb)]
+- Logistic Regression [[Notebook](http://nbviewer.ipython.org/github/jthang/DataScienceLab/blob/master/machine_learning/logistic_regression.ipynb)]
+- Support Vector Machine [[Notebook](http://nbviewer.ipython.org/urls/raw.github.com/jthang/DataScienceLab/master/machine_learning/svm.ipynb)]
+- Random Forest [[Notebook](http://nbviewer.ipython.org/urls/raw.github.com/jthang/DataScienceLab/master/machine_learning/random_forest.ipynb)]
+- Gradient Boosting Regression Trees [[Notebook](http://nbviewer.ipython.org/urls/raw.github.com/jthang/DataScienceLab/master/machine_learning/gbrt.ipynb)]
+- Naive Bayes [[Notebook](http://nbviewer.ipython.org/urls/raw.github.com/jthang/DataScienceLab/master/machine_learning/naive_bayes.ipynb)]
 
 **Clustering and Dimensionality Reduction**
-- k-means [[Notebook](http://nbviewer.ipython.org/urls/raw.github.com/jthang/Dat
-aScienceLab/master/machine_learning/kmeans.ipynb)]
-- Principal Component Analysis (PCA) [[Notebook](http://nbviewer.ipython.org/url
-s/raw.github.com/jthang/DataScienceLab/master/machine_learning/pca.ipynb)]
+- k-means [[Notebook](http://nbviewer.ipython.org/urls/raw.github.com/jthang/DataScienceLab/master/machine_learning/kmeans.ipynb)]
+- Principal Component Analysis (PCA) [[Notebook](http://nbviewer.ipython.org/urls/raw.github.com/jthang/DataScienceLab/master/machine_learning/pca.ipynb)]
 
 **Recommender Systems**
 - Collaborative Filtering
@@ -42,8 +34,7 @@ s/raw.github.com/jthang/DataScienceLab/master/machine_learning/pca.ipynb)]
 
 #Feature Extraction and Transformation
 [back to top](#contents)
-- Data Wrangling [[Notebook](http://nbviewer.ipython.org/github/jthang/DataScien
-ceLab/blob/master/preprocessing/data_wrangling.ipynb)]
+- Data Wrangling [[Notebook](http://nbviewer.ipython.org/github/jthang/DataScienceLab/blob/master/preprocessing/data_wrangling.ipynb)]
 - TF-IDF
 - Word2Vec
 - Standard Scaler
@@ -53,8 +44,7 @@ ceLab/blob/master/preprocessing/data_wrangling.ipynb)]
 
 #Data Visualization
 [back to top](#contents)
-- Matplotlib / Seaborn [[Notebook](http://nbviewer.ipython.org/github/jthang/Dat
-aScienceLab/blob/master/data_viz/data_viz.ipynb)]
+- Matplotlib / Seaborn [[Notebook](http://nbviewer.ipython.org/github/jthang/DataScienceLab/blob/master/data_viz/data_viz.ipynb)]
 - plot.ly
 - d3.js
 
@@ -77,19 +67,14 @@ aScienceLab/blob/master/data_viz/data_viz.ipynb)]
 
 ###References
 [back to top](#contents)
-- [The Elements of Statistical
-Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
-- [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-
-us/um/people/cmbishop/PRML/)
+- [The Elements of StatisticalLearning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+- [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/PRML/)
 - [Stanford CS229 - Machine Learning](http://cs229.stanford.edu/materials.html)
-- [Stanford - Probabilistic Graphical
-Models](https://www.coursera.org/course/pgm)
+- [Stanford - Probabilistic GraphicalModels](https://www.coursera.org/course/pgm)
 - [Harvard CS109 - Data Science](https://github.com/cs109/content)
 - [Caltech - Learning From Data](https://work.caltech.edu/lectures.html)
-- [Carnegie Mellon University - Machine
-Learning](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
-- [University of Toronto - Neural Networks for Machine
-Learning](https://www.coursera.org/course/neuralnets)
+- [Carnegie Mellon University - Machine Learning](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+- [University of Toronto - Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
 
 ###Data Science Process
 [back to top](#contents)
@@ -100,5 +85,4 @@ Learning](https://www.coursera.org/course/neuralnets)
 <br>
 <img src="./images/predictive_modeling.png">
 <br>
-<img src="./images/datascience_flowchart.png" style="width: 700px;
-height:600px;">
+<img src="./images/datascience_flowchart.png" style="width: 700px;height:600px;">
